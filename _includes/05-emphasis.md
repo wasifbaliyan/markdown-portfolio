@@ -1,1 +1,20 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+## Technical Skills
+
+Below is a _list_ of my **technical skills**:
+
+### FrontEnd
+- ReactJS
+- HTML
+- CSS
+- Bootstrap 4
+
+### Backend 
+- NodeJS
+- MongoDB
+- Express
+
+### DevOps
+- Git
+- Github
